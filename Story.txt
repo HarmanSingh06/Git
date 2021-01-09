@@ -1,0 +1,2 @@
+CHaracter 1 killed Character 2
+CHaracter 1 killed Character 3
